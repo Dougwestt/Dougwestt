@@ -1,7 +1,7 @@
-I don't have any idea what I am doing. 
-- 👀 I’m interested in ... learning more. 
-- 🌱 I’m currently learning ... I don't even know. 
-- 💞️ I’m looking to collaborate on ... learning this thing. 
+Just learning how to use this stuff. Challenging!  
+- 👀 I’m interested in ... learning more code and 中文。 
+- 🌱 I’m currently learning ... HTML, how to use GitHub, 中文，金融。
+- 💞️ I’m looking to collaborate on ... anything helpful! 
 - 📫 How to reach me ... dleggett5353@gmail.com
 
 <!---
